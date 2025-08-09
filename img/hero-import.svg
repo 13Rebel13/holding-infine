@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Illustration - Import">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f172a" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#111827" stop-opacity="0.88"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#0b0f14"/>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <!-- Conteneur + flèche -->
+  <g fill="#93c5fd" opacity="0.9">
+    <rect x="560" y="460" width="480" height="180" rx="8"/>
+    <rect x="600" y="500" width="60" height="100"/>
+    <rect x="680" y="500" width="60" height="100"/>
+    <rect x="760" y="500" width="60" height="100"/>
+    <rect x="840" y="500" width="60" height="100"/>
+    <rect x="920" y="500" width="60" height="100"/>
+    <path d="M800 420 l120 -70 v50 h120 v40 h-120 v50 z"/>
+  </g>
+</svg>
